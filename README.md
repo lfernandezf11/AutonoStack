@@ -20,6 +20,9 @@ Repositorio destinado a la generación de documentación y seguimiento del desar
 | **12 de diciembre** | Opciones de Despliegue de Aplicativos |
 | **19 de diciembre** | Pruebas de Despliegue en Entorno Local (TomCat) |
 | **09 de enero** | Pruebas de Despliegue en Vercel |
+| **16-enero** | Fase de ajustes finales, corrección de errores (Bugs) y optimización de rendimiento.
+| **23-enero** | Cierre definitivo de la documentación y manuales finales.
+| **30-enero** | Empaquetado final del software y preparación de la defensa del proyecto.
 
 # AutonoStack - Sistema de Gestión Financiera y Dashboard Analítico 
 ## 📝 Resumen del Proyecto
